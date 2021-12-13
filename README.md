@@ -1,6 +1,6 @@
 # MCunicode字体放缩
 
-[![license](https://img.shields.io/github/license/sch246/MCunicode)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/sch246/MCunicode)](https://github.com/sch246/MCunicode/blob/master/LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 将我的世界的unicode字体格式转化为bitmap格式，并且进行放缩的资源包
