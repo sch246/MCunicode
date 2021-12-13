@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": [
+            {
+                "text": "s3.size资源包",
+                "color": "green"
+            },
+            {
+                "text": "\nby sch246",
+                "color": "gray"
+            }
+        ]
+    }
+}
