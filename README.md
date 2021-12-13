@@ -86,4 +86,4 @@
 ## 使用许可
 
 
-[TML](LICENSE)
+[MIT](LICENSE)
