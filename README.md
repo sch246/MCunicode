@@ -34,7 +34,7 @@
 
 ### 这玩意不需要安装)
 
-点击[这里](https://github.com/sch246/MCunicode/archive/refs/heads/main.zip)下载源代码
+点击[这里](https://codeload.github.com/sch246/MCunicode/zip/refs/heads/master)下载源代码
 
 然后解压到资源包文件夹就行了
 
